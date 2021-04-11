@@ -1,7 +1,7 @@
 ## Documentation
 
-Tibero DataBase 사용을 위한 Spring Boot Template Repository 입니다. (v 2.4.3)
-본 Repository는 다음과 같은 의존성 패키지를 포함합니다.
+Tmax 제품을 사용하여 프로젝트를 생성하는 분들을 위하여 만든 Spring Boot Template Repository 입니다. (v 2.4.3)
+본 Template은 다음과 같은 의존성 패키지를 포함합니다.
 
 * Spring-boot-starter-web
 * spring-boot-starter-tomcat
